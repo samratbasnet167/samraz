@@ -1,30 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07303a63-9af6-494f-a031-e26da414f89b" name="Default Changelist" comment="" />
+    <list default="true" id="8cdc6f26-06d3-4f0a-8da5-507217c4f1b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/ecom-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/kotlin/com/example/ecom/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/android/settings_aar.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/accessories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/formal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/informal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/jeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/shoe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/cats/tshirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/m1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/blazer1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/blazer2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/dress1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/dress2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/hills1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/hills2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/pants1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/pants2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/shoe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/skt1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/products/skt2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/w1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/w3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/images/w4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/components/Products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/components/cart_products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/components/horizontal_list_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/cart.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/login.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/product_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/signup.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/pages/splash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/lib/utils/firebase_auth.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-master-master/ecom/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
-  <component name="ProjectId" id="1bwXaO9Sq1Ll2Q7ZcIxmL3U2RTq" />
+  <component name="ProjectId" id="1byICSe7UN0ZEPH2kcZBgGtFg2l" />
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../admin_side_flutter_ecommerce_app-master" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -39,41 +155,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart">
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ecom/lib/main.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ecom" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ecom/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Flutter.main.dart" />
-        <item itemvalue="Dart Command Line App.main.dart" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07303a63-9af6-494f-a031-e26da414f89b" name="Default Changelist" comment="" />
-      <created>1589544192251</created>
+      <changelist id="8cdc6f26-06d3-4f0a-8da5-507217c4f1b8" name="Default Changelist" comment="" />
+      <created>1589597778793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589544192251</updated>
+      <updated>1589597778793</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
